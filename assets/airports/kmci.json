@@ -349,8 +349,8 @@
             },
             "body": [["BQS", "A120"], ["DONNS", "A120"]],
             "rwy": {
-                "KMCI1L": ["MATTZ", ["BYGEC", "S210"], "#190"],
-                "KMCI1R": ["MATTZ", ["BYGEC", "S210"], "#190"],
+                "KMCI1L": ["MATTZ", ["BYGEC", "A120|S210"], "#190"],
+                "KMCI1R": ["MATTZ", ["BYGEC", "A120|S210"], "#190"],
                 "KMCI9": [],
                 "KMCI19L": ["#255"],
                 "KMCI19R": ["#255"],
@@ -375,8 +375,8 @@
                 "KMCI1L": ["#060"],
                 "KMCI1R": ["#060"],
                 "KMCI9": [],
-                "KMCI19L": ["RUGBB", ["NOAHS", "S210"], "#010"],
-                "KMCI19R": ["RUGBB", ["NOAHS", "S210"], "#010"],
+                "KMCI19L": ["RUGBB", ["NOAHS", "A120|S210"], "#010"],
+                "KMCI19R": ["RUGBB", ["NOAHS", "A120|S210"], "#010"],
                 "KMCI27": []
             },
             "draw": [
@@ -394,8 +394,8 @@
             },
             "body": ["RBA", "JUDAA"],
             "rwy": {
-                "KMCI1L": ["PEGGI", ["HUGGY", "S210"], "#190"],
-                "KMCI1R": ["PEGGI", ["HUGGY", "S210"], "#190"],
+                "KMCI1L": ["PEGGI", ["HUGGY", "A120|S210"], "#190"],
+                "KMCI1R": ["PEGGI", ["HUGGY", "A120|S210"], "#190"],
                 "KMCI9": [],
                 "KMCI19L": ["#110"],
                 "KMCI19R": ["#110"],
@@ -418,8 +418,8 @@
                 "KMCI1L": ["#290"],
                 "KMCI1R": ["#290"],
                 "KMCI9": [],
-                "KMCI19L": ["MORAY", ["SLABB", "S210"], "#010"],
-                "KMCI19R": ["MORAY", ["SLABB", "S210"], "#010"],
+                "KMCI19L": ["MORAY", ["SLABB", "A120|S210"], "#010"],
+                "KMCI19R": ["MORAY", ["SLABB", "A120|S210"], "#010"],
                 "KMCI27": []
             },
             "draw": [
