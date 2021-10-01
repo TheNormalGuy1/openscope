@@ -347,7 +347,7 @@
                 "MCM": ["MCM", "CORIM"],
                 "SPI": ["SPI", "UIN", "HUGIN"]
             },
-            "body": ["BQS", "DONNS"],
+            "body": [["BQS", "A120"], "DONNS"],
             "rwy": {
                 "KMCI1L": ["MATTZ", ["BYGEC", "S210"], "#190"],
                 "KMCI1R": ["MATTZ", ["BYGEC", "S210"], "#190"],
